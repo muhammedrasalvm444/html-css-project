@@ -21,7 +21,6 @@ body {
 .banner-rotated {
   display: flex;
   justify-content: center;
-  /* background: linear-gradient(45deg, rgba(3, 6, 47, 1), rgba(24, 11, 116, 1)); */
   overflow: hidden; /* Ensure that the overflow is hidden */
 }
 
